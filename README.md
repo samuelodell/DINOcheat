@@ -72,6 +72,7 @@ DINOcheat works on several Chrome Dino game implementations, including:
 - https://tuckercraig.com/dino
 - https://trex-runner.com
 - https://dino-chrome.com
+- https://gamefyno.com
 - https://dinorunner.com
 - https://googledino.com
 
